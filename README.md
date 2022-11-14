@@ -1,4 +1,4 @@
-# wepy 图片压缩插件
+# wepy 图片压缩插件.
 
 # 功能与wepy-plugin-imagemin一致，只是升级了依赖的压缩库 imagemin 及其 插件的版本
 # 注意压缩插件的参数有变化
